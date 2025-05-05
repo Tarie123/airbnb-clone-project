@@ -45,5 +45,10 @@ to protect data
 authorization,
 to allow information access by a group
  rate limiting
+
+ CI/CD Pipeline
+
+ A CI/CD pipeline is an automated workflow that streamlines the software development process, enabling frequent and reliable delivery of code changes. It allows a contious integration and contious development therefore cutting down time in merging code, applications are Docker, GitHub Actions
+ 
  
 
