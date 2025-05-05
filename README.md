@@ -39,3 +39,11 @@ information regarding the property and rooms
 booking system
 allows users to book romms remotely 
 
+API Security
+authentication, 
+to protect data
+authorization,
+to allow information access by a group
+ rate limiting
+ 
+
