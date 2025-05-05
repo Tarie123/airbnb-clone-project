@@ -30,3 +30,12 @@ user can make transactions related to bookings.
 Review System
 user can post and read reviews for properties.
 
+Feature Breakdown
+
+user management, 
+manages the users account 
+property management, 
+information regarding the property and rooms
+booking system
+allows users to book romms remotely 
+
